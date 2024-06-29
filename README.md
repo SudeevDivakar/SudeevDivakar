@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sudeev Divakar</h1>
 <h3 align="center">A Passionate FullStack Web Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeevdivakar" alt="sudeevdivakar" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://sudeevdivakar-portfolio.vercel.app/](https://sudeevdivakar-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Tailwind CSS, Node.js**
